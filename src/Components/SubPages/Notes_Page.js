@@ -3,7 +3,7 @@ import React from 'react';
 const NotesPage = ({ children }) => {
   return (
     <div className='flex flex-col container'>
-        <a href="/" >Main page</a>
+        <a href="%PUBLIC_URL%/" >Main page</a>
         <div className="my-4">
           {children}
         </div>
