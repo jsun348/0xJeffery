@@ -4,7 +4,7 @@ import { books, medias, thoughts } from "../database";
 const ReadingList = ({ items, itemType }) => {
     return (
       <div className='flex flex-wrap'>
-        <ur>
+        <ul>
           {items.map((item) => (
             <li key={item.title}>
               {item.link ? (
@@ -16,7 +16,7 @@ const ReadingList = ({ items, itemType }) => {
               {item.notes && <a href={item.notes}> My Notes</a>}
             </li>
           ))}
-        </ur>
+        </ul>
       </div>
     );
   };

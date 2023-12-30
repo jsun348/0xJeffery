@@ -6,7 +6,7 @@ const Profile = () => {
     <div className='flex flex-col mr-8'>
         <div className="container">
             <h2>Me</h2>    
-            <ur>
+            <ul>
             <li>Studied math, econ, finance, and CS. 
                 Jack of all trades, master of none.</li>
             <li>A not-so-different institutional investor, although
@@ -15,14 +15,14 @@ const Profile = () => {
             Building with buddies. / 
             Reading all sorts of stuff. / 
             Hope to learn art and music. </li>        
-            </ur>
+            </ul>
         </div>
 
         <div className="container">
             <h2>My Garage Projects</h2> 
-            <ur>
+            <ul>
                 <li>Resumagic - efficiently write and format resume (Coming Soon)</li>
-            </ur>
+            </ul>
             
         </div>
 

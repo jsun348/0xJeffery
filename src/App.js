@@ -7,8 +7,8 @@ const App = () => {
   return (
     <Router>
       <Routes>
-        <Route path="%PUBLIC_URL%/" element={<MainPage />} />
-        <Route path="%PUBLIC_URL%/notes-globalEnergyTransition" element={<NotesGlobalEnergyTransition />} />
+        <Route path="/" element={<MainPage />} />
+        <Route path="/notes-globalEnergyTransition" element={<NotesGlobalEnergyTransition />} />
       </Routes>
     </Router>
   );
