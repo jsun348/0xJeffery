@@ -27,7 +27,7 @@ const Profile = () => {
         </div>
 
         <div className="container">
-            <h2>My Thoughts</h2>   
+            <h2>Thoughts</h2>   
             <div>
                 <ThoughtList />
             </div>
