@@ -47,4 +47,11 @@ export const thoughts = [
         "notes": null,
         "link": "https://0xjeffery.substack.com?utm_source=navbar&utm_medium=web&r=2a6hhp",
     },
+    {
+        "title": "Exploring the Investment Landscape and Value Capture of the AI-Powered New Economy", 
+        "author": "Part 1 & 2",
+        "description": "My reading on who is winning the AI value chain.",
+        "notes": null,
+        "link": "https://0xjeffery.substack.com?utm_source=navbar&utm_medium=web",
+    },
 ];
