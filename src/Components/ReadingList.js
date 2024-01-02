@@ -13,7 +13,7 @@ const ReadingList = ({ items, itemType }) => {
             ) : (
               <span>{item.title}</span>
             )}
-            <span className='disclaimer'>{itemType === 'book' ? item.author : item.creator}</span> - {item.description}
+            <span className='disclaimer'> {item.author}</span> - {item.description}
             {item.notes && (
               <Link to={item.notes} className="text-orange-600"> 【My Notes】</Link>
             )}
