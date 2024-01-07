@@ -1,5 +1,14 @@
 export const books = [
     {
+        "title": "Factfulness", 
+        "author": "Hans Rosling",
+        "description": "(Still reading, so far I learnt that media \
+            systematically skew data and select stories to make people \
+            think that the world is getting worse, but in fact it is not).",
+        "notes": null,
+        "link": null,
+    },
+    {
         "title": "The Worlds I See", 
         "author": "Fei-Fei Li",
         "description": "Biography of Fei-fei Li, one of best AI scientists.",
