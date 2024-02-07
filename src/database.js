@@ -1,11 +1,16 @@
 export const books = [
     {
+        "title": "The Psychology of Money", 
+        "author": "Morgan Housel",
+        "description": "1. Increase your time horizon. 2. Save money.",
+        "notes": "https://0xjeffery.notion.site/The-Psychology-of-Money-48b1afa375994621a685c7f546b904c7",
+        "link": null,
+    },
+    {
         "title": "Factfulness", 
         "author": "Hans Rosling",
-        "description": "(Still reading, so far I learnt that media \
-            systematically skew data and select stories to make people \
-            think that the world is getting worse, but in fact it is not).",
-        "notes": null,
+        "description": "World is much better than you think, and we need systematic optimism",
+        "notes": "https://0xjeffery.notion.site/Factfulness-Hans-Rosling-232ca1afe0d44f74a966e605f93265e1?pvs=74",
         "link": null,
     },
     {

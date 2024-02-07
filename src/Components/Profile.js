@@ -9,17 +9,17 @@ const Profile = () => {
             <ul>
             <li>Studied math, econ, finance, and CS. 
                 Jack of all trades, master of none.</li>
-            <li>A not-so-different institutional investor, although
-                (generally) like Silicon Valley > Wall Street.</li>
+            <li>An institutional investor, but
+                (generally) believe Silicon Valley is an leading indicator of Wall Street.</li>
             <li>On weekends:
-            Building with buddies. / 
+            Social coding with buddies. / 
             Reading all sorts of stuff. / 
-            Hope to learn art and music. </li>        
+            Hope to learn art and music (Constantly restarting). </li>        
             </ul>
         </div>
 
         <div className="container">
-            <h2>My Garage Projects</h2> 
+            <h2>My Fun Projects</h2> 
             <ul>
                 <li>Resumagic - efficiently write and format resume (Coming Soon)</li>
             </ul>
